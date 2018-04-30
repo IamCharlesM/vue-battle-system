@@ -101,3 +101,6 @@ secret.py
 # mypy
 .mypy_cache/
 
+
+
+.gitignore
