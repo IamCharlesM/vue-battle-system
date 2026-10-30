@@ -50,7 +50,6 @@ coverage.xml
 *.mo
 *.pot
 
-temp_auto_push.bat
 # Django stuff:
 *.log
 local_settings.py
@@ -81,7 +80,6 @@ celerybeat-schedule
 *.sage.py
 
 # dotenv
-.env
 
 # virtualenv
 .venv
@@ -104,5 +102,5 @@ secret.py
 
 
 
-.gitignore
-branch_structure.json
+config.bat
+node_modules
