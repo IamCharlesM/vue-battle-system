@@ -80,7 +80,6 @@ celerybeat-schedule
 *.sage.py
 
 # dotenv
-.env
 
 # virtualenv
 .venv
@@ -103,7 +102,5 @@ secret.py
 
 
 
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
+config.bat
+node_modules
